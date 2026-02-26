@@ -1,0 +1,24 @@
+{
+  "total_words": 1608,
+  "divine_words": 773,
+  "prime_words": 275,
+  "categories": {
+    "core": 1608
+  },
+  "patterns": {
+    "composite": 779,
+    "prime_power": 26,
+    "pure_prime": 275,
+    "prime_times_2": 153,
+    "divine_7": 221,
+    "divine_13": 106,
+    "divine_19": 48
+  },
+  "gematria_min": 18,
+  "gematria_max": 997,
+  "alphabet_size": 39,
+  "language": "Sanskrit",
+  "script": "Devanagari",
+  "era": "1500 BCE - present (liturgical)",
+  "family": "Indo-Aryan"
+}
